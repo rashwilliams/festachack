@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
-import { Button, Form } from "react-bootsratp";
+import { Button, Form, Col, Container, Row } from "react-bootstrap";
+import styles from "./Register.module.css";
 
 const Register = () => {
   return (

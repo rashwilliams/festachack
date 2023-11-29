@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
-import { Button, Form } from "react-bootsratp";
+import { Button, Form, Col, Row, Container } from "react-bootstrap";
+import styles from "./Login.module.css";
 
 const Login = () => {
   return (
